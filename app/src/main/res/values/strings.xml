@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StoringAppSettings</string>
+    <string name="tag">Enter your tag</string>
+    <string name="pickMain">Choose your main</string>
+    <string name="pickNum">Choose your favorite game</string>
+    <string name="dark">Dark</string>
+    <string name="ssb64">Super Smash Bros. (N64)</string>
+    <string name="ssbm">Super Smash Bros. Melee (GameCube)</string>
+    <string name="ssbb">Super Smash Bros. Brawl (Wii)</string>
+    <string name="ssb4">Super Smash Bros. for Wii U</string>
+    <string name="ssbu">Super Smash Bros. Ultimate</string>
+</resources>
